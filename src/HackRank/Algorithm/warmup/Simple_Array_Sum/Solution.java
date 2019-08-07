@@ -1,4 +1,4 @@
-package HackRank.Algorithm.warmup;
+package HackRank.Algorithm.warmup.Simple_Array_Sum;
 
 public class Solution {
 
